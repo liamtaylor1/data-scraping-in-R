@@ -1,0 +1,2 @@
+Data scraping from web source (IMBD top 100 films) using R. the script pulls mutiple pages, stiches together the data and seperates the data into their own data frames. 
+After which some analysis is run on the data.
